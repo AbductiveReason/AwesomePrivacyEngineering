@@ -14,7 +14,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Privacy Engineering** - Nishant Bhajaria](https://www.manning.com/books/privacy-engineering)           
 - [**AI & Privacy: How To Find Balance** - Punit Bhatia | Eline Chivot ](https://www.amazon.com/AI-Privacy-How-Find-Balance/dp/B0914PW9N8)           
 - [**An Introduction to Privacy for Technology Professionals** - Travis Breaux](https://iapp.org/store/books/a191P000003nSa4QAE)           
--[**Strategic Privacy by Design** - R. Jason Cronk](https://iapp.org/store/books/a191a0000034aEeAAI/)          
+- [**Strategic Privacy by Design** - R. Jason Cronk](https://iapp.org/store/books/a191a0000034aEeAAI/)          
 - [**Software Security: Building Security In** - Gary McGraw](https://www.goodreads.com/book/show/760789.Software_Security)    
 - [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
 - [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
