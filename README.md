@@ -30,6 +30,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**LINDDUN GO** - A Lightweight Approach to Privacy Threat Modeling](https://sion.info/assets/pdf/publications/WuytsIWPE2020.pdf)    
 - [**Operationalizing the Legal Principle of Data Minimizationfor Personalization** -   Asia J. Biega, Peter Potash, Hal Daumé III, Fernando Diaz, Michèle Finck](https://arxiv.org/pdf/2005.13718.pdf) 
 - [**Harvard University Privacy Tools Project** - The Privacy Tools Project is a broad effort to advance a multidisciplinary understanding of data privacy issues and build computational, statistical, legal, and policy tools to help address these issues in a variety of contexts.](https://privacytools.seas.harvard.edu/) 
+- [**MITRE Systems Engineering Guide** - Based on the ECD Privacy Framework Privacy Principles](https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/engineering-informationintensive-enterprises/privacy-systems-engineering)
       
 # Blogs       
 - [**Deidentification 101: A lawyer’s guide to masking, encryption and everything in between** - Alfred Rossi, Andrew Burt, Sophie Stalla-Bourdillon](https://iapp.org/news/a/de-identification-101-a-lawyers-guide-to-masking-encryption-and-everything-in-between/)      
