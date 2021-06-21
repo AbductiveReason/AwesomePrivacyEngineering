@@ -89,7 +89,8 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Podcast: Exploring the privacy, ethical issues with emotion-detection tech**](https://iapp.org/news/a/exploring-the-privacy-ethical-issues-with-emotion-detection-tech/)     
 - [**Reviving Purpose Limitation and Data Minimisation in Personalisation, Profiling and Decision-Making Systems** - Asia Biega and Michèle Finck](https://arxiv.org/ftp/arxiv/papers/2101/2101.06203.pdf) 
  
-# Other resources     
+# Training & Other resources 
+- [**OpenMind** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://courses.openmined.org/courses)
 - [**Privacy Engineer Sample Job Description**](https://iapp.org/resources/article/privacy-engineer-sample-job-description/)     
      
      
