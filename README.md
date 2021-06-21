@@ -6,7 +6,7 @@
 ---          
 # Awesome Privacy Engineering             
              
-This repository contains a curated list of resources related to privacy engineering, a field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy throughout the whole engineering process, also known as Privacy by design (PbD), an approach to systems engineering initially developed by [Ann Cavoukian](https://en.wikipedia.org/wiki/Ann_Cavoukian)           
+This repository contains a curated list of resources related to privacy engineering, a field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy throughout the whole engineering process, also known as Privacy by design (PbD), an approach to systems engineering initially developed by [Dr. Ann Cavoukian](https://www.ryerson.ca/pbdce/about/ann-cavoukian/)           
      
 For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.             
              
