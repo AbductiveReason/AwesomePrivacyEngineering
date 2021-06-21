@@ -24,13 +24,13 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 # Publications & Projects     
 - [**The NIST Privacy Engineering Program’s (PEP)** - Supports the development of trustworthy information systems by applying measurement science and system engineering principles to the creation of frameworks, risk models, guidance, tools, and standards that protect privacy and, by extension, civil liberties.](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering)    
 - [**NIST Special Publication 800-53Revision 5** - Security and Privacy Controls for Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)          
-- [**NISTIR 8062** - An Introduction to Privacy Engineering and Risk Management in Federal Systems](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)         
+- [**NISTIR 8062** - An Introduction to Privacy Engineering and Risk Management in Federal Systems](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)     
 - [**NIST Privacy Framework** - A tool for improving privacy through enterprise risk management, version 1.0](https://doi.org/10.6028/NIST.CSWP.01162020)      
 - [**OWASP Top 10 Privacy Risks** - The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks in web applications and related countermeasures.](https://owasp.org/www-project-top-10-privacy-risks/)     
 - [**LINDDUN privacy threat modeling framework** - The LINDDUN threat modeling framework provides support to systematically elicit and mitigate privacy threats in software architectures.](https://www.nist.gov/privacy-framework/linddun-privacy-threat-modeling-framework)     
 - [**LINDDUN GO** - A Lightweight Approach to Privacy Threat Modeling](https://sion.info/assets/pdf/publications/WuytsIWPE2020.pdf)    
 - [**Operationalizing the Legal Principle of Data Minimizationfor Personalization** -   Asia J. Biega, Peter Potash, Hal Daumé III, Fernando Diaz, Michèle Finck](https://arxiv.org/pdf/2005.13718.pdf)
-- - [**OpenMind** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://openmined.org)
+- [**OpenMind** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://openmined.org)
 - [**Harvard University Privacy Tools Project** - The Privacy Tools Project is a broad effort to advance a multidisciplinary understanding of data privacy issues and build computational, statistical, legal, and policy tools to help address these issues in a variety of contexts.](https://privacytools.seas.harvard.edu/) 
 - [**MITRE Systems Engineering Guide** - Based on the ECD Privacy Framework Privacy Principles](https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/engineering-informationintensive-enterprises/privacy-systems-engineering)
       
