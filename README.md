@@ -73,7 +73,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Bogus** - A simple and sane fake data generator for .NET languages like C#, F# and VB.NET.](https://github.com/TonicAI/Bogus)       
 - [**Event Timestamp Generator** - Generate real world event sequence data using an exponential distribution.](https://github.com/TonicAI/event_generator)      
 - [**Mimesis** - A high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)    
-- [**pydbgen** - Generate full data tables with meaningful yet random entries of most commonly encountered fields in the world of database, such as name, age, birthday,, credit card number, SSN, email id, physical address, company name, job title](https://github.com/tirthajyoti/pydbgen.)      
+- [**pydbgen** - Generate full data tables with meaningful yet random entries of most commonly encountered fields in the world of database, such as name, age, birthday,, credit card number, SSN, email id, physical address, company name, job title](https://github.com/tirthajyoti/pydbgen)     
 - [**Synthea** - Synthetic Patient Population Simulator. The goal is to output synthetic, realistic (but not real), patient data and associated health records in a variety of formats.](https://github.com/synthetichealth/synthea)      
 - [**Gretel Synthetics**-  Synthetic data generators for structured and unstructured text, featuring differentially private learning.](https://github.com/gretelai/gretel-synthetics)      
       
