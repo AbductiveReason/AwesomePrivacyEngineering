@@ -95,8 +95,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Privacy Law and Data Protection - University of Pennsylvania**](https://www.coursera.org/learn/privacy-law-data-protection)
 - [**Introduction to GDPR: General Data Protection Regulation - University College London**](https://www.futurelearn.com/courses/gdpr)
 - [**Understanding the GDPR - University of Groningen**](https://www.futurelearn.com/courses/general-data-protection-regulation)
-- [**Protecting Health Data in the Modern Age: Getting to Grips with the GDPR - University of Groningen
-**](https://www.futurelearn.com/courses/protecting-health-data)
+- [**Protecting Health Data in the Modern Age: Getting to Grips with the GDPR - University of Groningen**](https://www.futurelearn.com/courses/protecting-health-data)
 - [**Privacy Engineer Sample Job Description**](https://iapp.org/resources/article/privacy-engineer-sample-job-description/)
 - [**OpenMind** - An open-source community of over 10,000 researchers, engineers, mentors and enthusiasts committed to making a fairer more prosperous world.](https://courses.openmined.org/courses)
      
