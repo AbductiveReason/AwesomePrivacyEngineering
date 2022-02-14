@@ -22,7 +22,8 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
 - [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
            
-# Publications & Projects     
+# Publications & Projects
+- [**Privacy Cookbook for Business Processes**] - (https://github.com/michael-oneill/IPEN-cookbook/blob/master/Privacy%20Cookbook%20for%20Business%20Processes.md)
 - [**The NIST Privacy Engineering Program’s (PEP)** - Supports the development of trustworthy information systems by applying measurement science and system engineering principles to the creation of frameworks, risk models, guidance, tools, and standards that protect privacy and, by extension, civil liberties.](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering)    
 - [**NIST Special Publication 800-53Revision 5** - Security and Privacy Controls for Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)          
 - [**NISTIR 8062** - An Introduction to Privacy Engineering and Risk Management in Federal Systems](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)     
