@@ -19,7 +19,8 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Software Security: Building Security In** - Gary McGraw](https://www.goodreads.com/book/show/760789.Software_Security)    
 - [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
 - [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
-- [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)    
+- [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
+- [**Privacy Design Strategies: (The Little Blue Book) ** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
            
 # Publications & Projects     
 - [**The NIST Privacy Engineering Program’s (PEP)** - Supports the development of trustworthy information systems by applying measurement science and system engineering principles to the creation of frameworks, risk models, guidance, tools, and standards that protect privacy and, by extension, civil liberties.](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering)    
