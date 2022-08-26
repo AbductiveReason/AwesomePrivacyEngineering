@@ -45,7 +45,8 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**How to Create PostgreSQL Test Data** - Alex Thompson](https://kb.objectrocket.com/postgresql/how-to-create-postgresql-test-data-1138)      
 - [**Data retention in a distributed system** - Lea Kissner](https://iapp.org/news/a/data-retention-in-a-distributed-system/)      
 - [**Aggregated data provides a false sense of security** - Luk Arbuckle](https://iapp.org/news/a/aggregated-data-provides-a-false-sense-of-security/)     
-- [**Threat Models for Differential Privacy** - A series on differential privacy by NIST](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)    
+- [**Threat Models for Differential Privacy** - A series on differential privacy by NIST](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
+- [**Legal perspectives on PETs: Homomorphic encryption** - Katharina Koerner](https://medium.com/golden-data/legal-perspectives-on-pets-homomorphic-encryption-9ccfb9a334f)
        
 # Privacy Enhancing Tools (PETs)   
 ##### The objective of PETs is to protect personal data and ensure the users of technology that their information is confidential and management of data protection is a priority to the organizations who withhold responsibility for sensitive private information.   
