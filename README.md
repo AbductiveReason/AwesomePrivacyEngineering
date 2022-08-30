@@ -70,6 +70,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
   
 # Privacy Testing Tools       
 #### Software privacy testing tools aim to make systems more resistant to privacy threats, by identifying privacy weaknesses and vulnerabilities in systems that collect, process and store sensitive private information .         
+- [**Privado** - An open source static code analysis tool to discover data flows in code](https://github.com/Privado-Inc/privado)
 - [**PrivacyRaven** - A privacy testing library for deep learning systems. You can use it to determine the susceptibility of a model to different privacy attacks; evaluate privacy preserving machine learning techniques; develop novel privacy metrics and attacks; and repurpose attacks for data provenance and other use cases.](https://github.com/trailofbits/PrivacyRaven)           
 - [**TensorFlow Privacy** - A Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.](https://github.com/tensorflow/privacy)            
 - [**Machine Learning Privacy Meter** - A Python library that enables quantifying the privacy risks of machine learning models.](https://github.com/privacytrustlab/ml_privacy_meter) (NUS Data Privacy and Trustworthy Machine Learning Lab)                 
