@@ -21,7 +21,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
 - [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
 - [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
-- [**Privacy Design Strategies. The Little Blue Book, May, 2018.** J.-H. Hoepman.] https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf
+- [**Privacy Design Strategies. The Little Blue Book, May, 2018.** - J.-H. Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
            
 # Publications & Projects
 - [**Privacy Cookbook for Business Processes** - A collection of Business Process Modelling (BPM) privacy resources](https://github.com/michael-oneill/IPEN-cookbook/blob/master/Privacy%20Cookbook%20for%20Business%20Processes.md)
