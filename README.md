@@ -48,7 +48,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Aggregated data provides a false sense of security** - Luk Arbuckle](https://iapp.org/news/a/aggregated-data-provides-a-false-sense-of-security/)     
 - [**Threat Models for Differential Privacy** - A series on differential privacy by NIST](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
 - [**Introduction to Homomorphic Encryption** - Katharina Koerner](https://medium.com/golden-data/introduction-to-homomorphic-encryption-d903d02d4ce0)
-- [**Legal perspectives on PETs: Homomorphic encryption** - Katharina Koerner](https://medium.com/golden-data/legal-perspectives-on-pets-homomorphic-encryption-9ccfb9a334f)
+- [**Legal perspectives on PETs: Homomorphic encryption** - Katharina Koerner] (https://medium.com/golden-data/legal-perspectives-on-pets-homomorphic-encryption-9ccfb9a334f)
        
 # Privacy Enhancing Tools (PETs)   
 ##### The objective of PETs is to protect personal data and ensure the users of technology that their information is confidential and management of data protection is a priority to the organizations who withhold responsibility for sensitive private information.   
