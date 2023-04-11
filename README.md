@@ -6,7 +6,7 @@
 ---          
 # Awesome Privacy Engineering             
              
-This repository contains a curated list of resources related to privacy engineering, a field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy throughout the whole engineering process, also known as Privacy by design (PbD), an approach to systems engineering initially developed by [Dr. Ann Cavoukian](https://www.ryerson.ca/pbdce/about/ann-cavoukian/)           
+This repository contains a curated list of resources related to privacy engineering, a field of engineering which aims to provide methodologies, tools, and techniques to ensure systems provide acceptable levels of privacy throughout the whole engineering process, also known as Privacy by design (PbD). While the development of privacy-aware technology started back in the 1960 in a small privacy community the term Privacy by Design was coinded by [Dr. Ann Cavoukian](https://www.ryerson.ca/pbdce/about/ann-cavoukian/) in 2009 and gets more traktion every year since then.
      
 For corrections, suggestions, or missing papers, please either open an issue or submit a pull request.             
              
@@ -21,6 +21,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
 - [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
 - [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
+- [**Understanding Privacy** - Heather Burns](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/)
            
 # Publications & Projects
 - [**Privacy Cookbook for Business Processes** - A collection of Business Process Modelling (BPM) privacy resources](https://github.com/michael-oneill/IPEN-cookbook/blob/master/Privacy%20Cookbook%20for%20Business%20Processes.md)
