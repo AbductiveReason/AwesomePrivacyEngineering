@@ -17,7 +17,7 @@ For corrections, suggestions, or missing papers, please either open an issue or 
 - [**An Introduction to Privacy for Technology Professionals** - Travis Breaux](https://iapp.org/store/books/a191P000003nSa4QAE)           
 - [**Strategic Privacy by Design** - R. Jason Cronk](https://iapp.org/store/books/a191a0000034aEeAAI/)          
 - [**Software Security: Building Security In** - Gary McGraw](https://www.goodreads.com/book/show/760789.Software_Security)    
-- [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
+- [**The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworthy Safeguards** - Courtney Bowman, Ari Gesher, John K. Grant](https://www.amazon.com.au/Architecture-Privacy-Engineering-Technologies-Trustworthy-ebook/dp/B014LPOXU2)    
 - [**Privacy Engineering: A data flow and ontological approach** - Ian Oliver](https://www.goodreads.com/book/show/22743596-privacy-engineering)    
 - [**Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices** - William Stallings](https://www.goodreads.com/book/show/44491826-information-privacy-engineering-and-privacy-by-design)   
 - [**Privacy Design Strategies: (The Little Blue Book)** -  Jaap-Henk Hoepman](https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf)
